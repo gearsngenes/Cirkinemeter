@@ -1,8 +1,8 @@
 
 /****** These are WIFI Parameters */
-const char* ssid = "IDEALab03";//"G BHIMESWARA RAO";//"KVHotspot";//"kvlan2017";
-const char* password = "griet@idealab";//"gslbhargavi2005";//"kvpass123"; //"covada6164";
-const char* mqtt_server = "192.168.0.100";//"192.168.29.202";//"172.20.10.4"; //"192.168.1.139";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_password";
+const char* mqtt_server = "your_RPI_IP_address";//example: "192.168.29.202"
 /****** ***** ***** ***** ***** ***** */
 
 
